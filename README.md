@@ -46,7 +46,7 @@ To install the Nepali Date application, follow these steps:
 
 ## Usage
 
-Check on Client Side Script [Latest Code](https://github.com/rbnkoirala/nepalidate/blob/main/nepalidate/nepali_date/doctype/nepali_date_demo/nepali_date_demo.js)
+Check on Client Side Script [Latest Code](https://github.com/ajiragroup/nepalidate/blob/main/nepalidate/nepali_date/doctype/nepali_date_demo/nepali_date_demo.js)
 ```shell
 frappe.ui.form.on("Nepali Date Demo", {
     refresh(frm) {
@@ -78,7 +78,7 @@ frappe.ui.form.on("Nepali Date Demo", {
 
 The following features are planned for future releases:
 
-1. Calender POPUP on Child Table [#child table code](https://github.com/rbnkoirala/nepalidate/wiki/Convert-Nepali-Date-Inside-Table-(Child-Doctype))
+1. Calender POPUP on Child Table [#child table code](https://github.com/ajiragroup/nepalidate/wiki/Convert-Nepali-Date-Inside-Table-(Child-Doctype))
 
 ## Screenshot
 ![image](https://github.com/rbnkoirala/nepalidate/assets/64308806/88dcc253-f445-4626-bdae-c233af68e481)
