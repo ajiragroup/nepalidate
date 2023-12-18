@@ -3,7 +3,7 @@
 mit# Nepali Date
 
 This Frappe application allows you to use Nepali Date on the Frappe Framework. 
-[Detail Documentation on Wiki](https://github.com/rbnkoirala/nepalidate/wiki/)
+[Detail Documentation on Wiki](https://github.com/ajiragroup/nepalidate/wiki/)
 
 
 
@@ -19,7 +19,7 @@ To install the Nepali Date application, follow these steps:
 2. Clone the repository to your local machine:
 
     ```shell
-    bench get-app https://github.com/rbnkoirala/nepalidate.git
+    bench get-app https://github.com/ajiragroup/nepalidate.git
     ```
     
 3. Install the application dependencies:
